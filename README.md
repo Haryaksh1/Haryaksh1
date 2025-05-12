@@ -2,7 +2,7 @@
 
 - 👀 I'm fascinated by the intersection of mathematics and machine learning, exploring how computational approaches can solve complex problems across domains. My projects span from NLP and cross-lingual embeddings to healthcare applications of AI.
 
-- 🚀 I’m currently learning in  Graph Neural Networks, Deep Learning, NLP and LLMs
+- 🚀 I’m currently learning Graph Neural Networks, Deep Learning, NLP and LLMs
 
 - 💞️ I’m looking to collaborate on Natural Language Processing & Large Language Models
 
