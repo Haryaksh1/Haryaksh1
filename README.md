@@ -16,7 +16,7 @@
 
 - 👀 I'm fascinated by the intersection of **mathematics and machine learning**, exploring how computational techniques can unravel complex problems across domains. My work spans from **cross-lingual embeddings** to **AI-driven healthcare solutions**.
 
-- 🚀 I’m currently diving deep into **Natural Language Processing (NLP)**, with a focus on **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, and **Explainable AI (XAI)** for building more grounded and efficient systems.
+- 🚀 I’m currently diving deep into **Natural Language Processing (NLP)**, with a focus on **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)** and **Explainable AI (XAI)** for building more grounded and efficient systems.
 
 - 💞️ I’m looking to collaborate on projects involving **LLMs**, **NLP pipelines**, and **retrieval-based architectures**.
 
