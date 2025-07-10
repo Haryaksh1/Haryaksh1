@@ -16,9 +16,9 @@
 
 - 👀 I'm fascinated by the intersection of **mathematics and machine learning**, exploring how computational techniques can unravel complex problems across domains. My work spans from **cross-lingual embeddings** to **AI-driven healthcare solutions**.
 
-- 🚀 I’m currently diving deep into **Natural Language Processing (NLP)**, with a focus on **Large Language Models (LLMs)**.
+- ✨ I am seeking internships and collaboration opportunities in **Artificial Intelligence and Data Science.**.
 
-- 💞️ I’m looking to collaborate on projects and Internships in **Artificial Intelligence**, and **Data Science**.
+- 💞️ Currently, I am diving deep into Natural Language Processing (NLP), focusing on **Large Language Models (LLMs)**.
 
 - 📫 How to reach me: f20220900@goa.bits-pilani.ac.in  |   https://www.linkedin.com/in/haryaksh-manuh-bhardwaj/
 
