@@ -14,11 +14,13 @@
 
 ## 👋 Hi there! I'm Haryaksh Bhardwaj  
 
-👀 I'm fascinated by the intersection of mathematics and machine learning, exploring how computational techniques can unravel complex problems across domains.
+👀 I'm fascinated by the intersection of mathematics and machine learning, exploring how computational techniques can unravel complex problems across domains. My work spans from cross-lingual embeddings to AI-driven healthcare solutions. 
 
-💞️ Currently diving deep into Natural Language Processing (NLP) and Large Language Models (LLMs).
+✨ I am seeking internships and collaboration opportunities in Artificial Intelligence and Data Science.. 
 
-📫 Reach me: f20220900@goa.bits-pilani.ac.in | [LinkedIn](https://www.linkedin.com/in/haryaksh-manuh-bhardwaj/)
+💞️ Currently, I am diving deep into Natural Language Processing (NLP), focusing on Large Language Models (LLMs). 
+
+📫 How to reach me: f20220900@goa.bits-pilani.ac.in | https://www.linkedin.com/in/haryaksh-manuh-bhardwaj/ 
 
 ⚡ Fun fact: Mathematics is the language in which AI speaks its most profound truths 📐
 
