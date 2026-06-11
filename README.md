@@ -6,7 +6,9 @@
 
 - 💞️ I’m looking to collaborate on projects involving LLMs, hallucination analysis, and retrieval-based architectures for more reliable and interpretable AI.
 
-- 📫 How to reach me: f20220900@goa.bits-pilani.ac.in
+- 📫 How to reach me: f20220900@goa.bits-pilani.ac.in   
+
+- 📝 Blog Page: https://medium.com/@haryakshbhardwaj
 
 - ⚡ Fun fact: Mathematics is the language in which AI speaks its most profound truths 📐 --->
 
