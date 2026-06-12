@@ -24,8 +24,6 @@
 
 📫 How to reach me: f20220900@goa.bits-pilani.ac.in | https://www.linkedin.com/in/haryaksh-manuh-bhardwaj/  
 
-📝 Blog Page: https://medium.com/@haryakshbhardwaj  
-
 ⚡ Fun fact: Mathematics is the language in which AI speaks its most profound truths 📐
 
 
